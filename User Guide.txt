@@ -1,0 +1,8 @@
+Player 1
+
+Move : WASD Key
+Attcak : Space
+
+Player 2
+Move : Arrow Key
+Attack : Downside Arrow
