@@ -1,5 +1,6 @@
 # Game-Multiplayer-HTML5-Canvas
 
+url: https://rholand-game.netlify.app/
 artikel: https://www.researchgate.net/publication/364986289_Rancang_Bangun_Multiplayer_Fighting_Game_Sederhana_Berbasis_Website_Dengan_HTML5_Canvas_Menggunakan_Metode_Pengembangan_MDLC
 
 Player 1,
